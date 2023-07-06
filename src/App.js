@@ -54,16 +54,7 @@ function App() {
                             JavaScript Tutorial
                         </h1>
                         <p class="text-small">
-                            JavaScript is the world most popular 
-                            lightweight, interpreted compiled 
-                            programming language. It is also 
-                            known as scripting  language for
-                            web pages. It is well-known for 
-                            the development of web page many 
-                            non-browser environments also use
-                            it. JavaScript can be used for 
-                            Client-side developments as well 
-                            as Server-side developments.
+                            so this another cool testing. is this getting my changes?
                         </p>
                     </div>
                 </div>
